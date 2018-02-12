@@ -1,0 +1,7 @@
+# NodeJS #
+###################
+node_modules/
+
+# IDEA generated files #
+######################
+.idea/
